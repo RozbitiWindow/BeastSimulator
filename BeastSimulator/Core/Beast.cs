@@ -104,7 +104,8 @@ namespace BeastSimulator.Core
 
             }
 
-            _hungerRestore = false;
+            // _hungerRestore = false;
+            _hungerRestore = true;
 
 
         }
