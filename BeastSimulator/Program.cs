@@ -45,6 +45,7 @@ namespace BeastSimulator
             Console.WriteLine(message);
             Console.WriteLine("Press ENTER to continue...");
             Console.ReadLine();
+            
 
 
         }
