@@ -124,7 +124,7 @@ namespace BeastSimulator.Core
             return _isAllive;
         }
 
-        public void HrajSi()
+        public void HrajSi() //added (initial commit)
         {
             if (_energy >= 20 && _food >= 10)
             {
@@ -151,6 +151,7 @@ namespace BeastSimulator.Core
 
                 }
             }
+            
 
         }
     }
